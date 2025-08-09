@@ -12,7 +12,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot token from BotFather
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "8493867699:AAH7wiNu3qyzcsvLhEAqX4RoP7ElG5ZY9Ec"
 
 def start(update: Update, context: CallbackContext) -> None:
     """Send a message when the command /start is issued."""
